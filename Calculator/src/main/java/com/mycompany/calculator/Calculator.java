@@ -5,6 +5,8 @@ package com.mycompany.calculator;
 
 public class Calculator {
 
+    //methods for functionality
+    
     public int add(int a, int b) {
         return a + b;
     }
